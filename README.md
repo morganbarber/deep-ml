@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 10 problems · 0 labs · 6 math
+**17** solved · 11 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-10-17 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-17 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-17 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-17 | [solution](problems/0083-dot-product-calculator) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-17 | [solution](problems/0003-reshape-matrix) |
