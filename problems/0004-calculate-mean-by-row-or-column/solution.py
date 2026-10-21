@@ -1,7 +1,9 @@
 def calculate_matrix_mean(matrix: list[list[float]], mode: str) -> list[float]:
+	means = []
+
 	if mode == 'row':
-		means = [sum(row) / len(row) for row in matrix]
+		means = [sum(row)/len(row) for row in matrix]
 	elif mode == 'column':
-		means = [sum(col) / len(col) for col in list(zip(*matrix))]
+		means = [sum(col)/len(col) for col in zip(*matrix)]
 	
 	return means
